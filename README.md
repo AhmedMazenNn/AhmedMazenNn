@@ -1,12 +1,11 @@
+![Coding GIF](https://github.com/AhmedMazenNn/AhmedMazenNn/assets/116601076/43a442d2-1b7f-4a19-bbf7-a915183117dc)
+
 # Hi there, I'm Ahmed Mazen! 👋
 
 ## 🚀 About Me
 - 🎓 Computer Science student at the Faculty of Computer and Information, Tanta University
 - 🌍 From Alexandria, Egypt
 - 💻 Passionate about coding and technology
-![gif](https://github.com/AhmedMazenNn/AhmedMazenNn/assets/116601076/43a442d2-1b7f-4a19-bbf7-a915183117dc)
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
