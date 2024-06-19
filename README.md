@@ -8,6 +8,7 @@
 - 💻 Passionate about coding and technology
 
 ## 🛠️ Technologies & Tools
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
