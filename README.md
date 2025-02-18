@@ -15,6 +15,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+![ECMAScript 6](https://img.shields.io/badge/-ECMAScript%206-333333?style=flat&logo=javascript)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
 ## 📫 How to reach me
