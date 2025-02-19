@@ -3,7 +3,7 @@
 # Hi there, I'm Ahmed Mazen! 👋
 
 ## 🚀 About Me
-- ITI (Information Technology Institute) Trainee - Full Stack Using Python
+- ITI (Information Technology Institute) - Full Stack Using Python
 - 🎓 Pursuing a Bachelor's degree in Computer Science at the Faculty of Computer and Information, Tanta University (🎓2024🎓)
 - 🌍 Based in Alexandria, Egypt
 - 💻 Passionate about coding, technology, and building innovative solutions
