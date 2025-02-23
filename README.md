@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 👨‍💻 ITI (Information Technology Institute) - Full Stack Using Python (💻2025💻)
-- 🎓 Pursuing a Bachelor's degree in Computer Science at the Faculty of Computer and Information, Tanta University (🎓2024🎓)
+- 🎓 Bachelor's degree in Computer Science at the Faculty of Computer and Information, Tanta University (🎓2024🎓)
 - 🌍 Based in Alexandria, Egypt
 - 💻 Passionate about coding, technology, and building innovative solutions
 
