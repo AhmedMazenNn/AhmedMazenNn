@@ -10,9 +10,7 @@
 - 🎯 **Internship:** Full Stack Python Developer @ **ITI** (Class of ’25)  
 - 🎓 **Graduate:** Computer Science @ **Tanta University, 2024**  
 - 🌟 **Passion Projects:** Automating life with Python 🤖, crafting web apps 🕸️  
-- 🎯 **Current Focus:** **Kubernetes & AI-driven applications**  
-- 🛠️ **Building Now:** A Django-powered **recipe app** with AI meal suggestions 🍽️  
-
+- 🎯 **Current Focus:** **Buliding Web Apps**  
 ---
 
 ## ⚡ **Tech Stack & Tools**  
