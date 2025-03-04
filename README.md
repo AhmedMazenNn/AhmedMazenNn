@@ -1,8 +1,9 @@
 # 👋 Hello World, I'm Ahmed Mazen!  
 
-<img src="https://github.com/AhmedMazenNn/AhmedMazenNn/assets/116601076/43a442d2-1b7f-4a19-bbf7-a915183117dc" width="50%">  
-
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47h9v9w5z7f2k6m3v3j4k5x1x1x1x1x1x1&rid=giphy.gif&ct=g" width="50%">
+<div align="center">
+  <img src="https://github.com/AhmedMazenNn/AhmedMazenNn/assets/116601076/43a442d2-1b7f-4a19-bbf7-a915183117dc" width="45%">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47h9v9w5z7f2k6m3v3j4k5x1x1x1x1x1x1&rid=giphy.gif&ct=g" width="45%">
+</div>
 
 ---
 
