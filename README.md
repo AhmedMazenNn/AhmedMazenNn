@@ -51,11 +51,6 @@
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedMazenNn&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMazenNn&layout=compact&theme=radical) |  
 |---|---|  
 
-🏆 **Trophies & Achievements**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhmedMazenNn&theme=onedark)  
-
----
-
 ## 🤝 **Let's Connect!**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmazenm/)  
