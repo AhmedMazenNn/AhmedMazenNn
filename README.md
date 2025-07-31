@@ -54,8 +54,10 @@
 
 ## 🤝 **Let's Connect!**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmazenm/)  
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ahmedmazenm@outlook.com)
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/ahmedmazenm/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> <a href="mailto:ahmed24mazen@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+</p>
 
 ---
 
