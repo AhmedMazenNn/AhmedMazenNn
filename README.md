@@ -313,16 +313,16 @@ I'm particularly interested in:
 <div align="center">
 
 <a href="https://github.com/AhmedMazenNn">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMazenNn&show_icons=true&hide_border=true&rank_icon=github" alt="Ahmed Mazen's GitHub Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMazenNn&hide_border=true&area=true" width="95%" alt="Ahmed Mazen's GitHub Activity Graph" />
+
 </a>
+
+<br><br>
 
 <a href="https://github.com/AhmedMazenNn">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMazenNn&layout=compact&hide_border=true" alt="Ahmed Mazen's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMazenNn&theme=tokyonight" width="95%" alt="GitHub Profile Details" />
 </a>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMazenNn&hide_border=true" alt="Ahmed Mazen's GitHub Streak" />
 
 </div>
 
